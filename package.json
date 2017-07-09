@@ -1,0 +1,18 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "this bot will parse and send data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Oleg Andreev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "reload": "^1.1.7",
+    "request": "^2.81.0"
+  }
+}
